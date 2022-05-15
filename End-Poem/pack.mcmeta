@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "文言華夏語言包——終末之詩"
+  },
+  "language": {
+    "lzh": {
+      "name": "文言",
+      "region": "華夏",
+      "bidirectional": false
+    }
+  }
+}
