@@ -1,4 +1,4 @@
-# Minecraft 文言文資源包
+# Minecraft 文言華夏語言包
 
 ![logo](https://mcwiki-1301161188.cos.ap-hongkong.myqcloud.com/github/minecraft-lzh/logo1.png)
 
