@@ -1,7 +1,5 @@
 # Minecraft 文言華夏語言包
 
-![logo](https://mcwiki-1301161188.cos.ap-hongkong.myqcloud.com/github/minecraft-lzh/logo1.png)
-
 ## 作用
 
 這個資源包為舊版本的Minecraft新增了一個語言：文言文。並加入了文言版的終末之詩。
