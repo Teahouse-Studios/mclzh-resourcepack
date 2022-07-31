@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 5,
-    "description": "文言華夏語言包——適用1.15"
+    "pack_format": 8,
+    "description": "文言華夏語言包——適用1.18"
   },
   "language": {
     "lzh": {
